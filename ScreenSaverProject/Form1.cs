@@ -12,6 +12,7 @@ namespace ScreenSaverProject
 {
     public partial class FormScreenSaver : Form
     {
+        
         public FormScreenSaver()
         {
             InitializeComponent();
